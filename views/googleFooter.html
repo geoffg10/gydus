@@ -1,0 +1,34 @@
+	<div id="fb-root"></div>
+	<script src="http://connect.facebook.net/en_US/all.js"></script>
+		
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDfktyei7gttvZgWoXgOQ6a9zypzanAdwQ&libraries=places&sensor=true"></script>
+    <script src="http://j.maxmind.com/app/geoip.js" charset="ISO-8859-1" type="text/javascript" ></script>
+	<!-- jquery  -->
+	<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<!-- plugins -->
+	<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+	<script type="text/javascript" src="js/bootstrap.js"></script>
+
+<!-- THIS SCRIPT IS TO LET YOU UTILZE THE IOS SIMULATOR -->
+<script>
+      !function ($) {
+        $(function(){
+          // Fix for dropdowns on mobile devices
+          $('body').on('touchstart.dropdown', '.dropdown-menu', function (e) { 
+              e.stopPropagation(); 
+          });
+          $(document).on('click','.dropdown-menu a',function(){
+              document.location = $(this).attr('href');
+          });
+        })
+      }(window.jQuery)
+    </script>
+	
+	<!-- main -->
+	<script type="text/javascript" src="js/login.js"></script>
+	<script type="text/javascript" src="js/jquery.mainpage.js"></script>
+  	<script type="text/javascript" src="js/main.js"></script>
+  	
+
+	
+</html>

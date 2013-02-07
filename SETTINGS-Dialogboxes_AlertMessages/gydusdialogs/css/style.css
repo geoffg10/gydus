@@ -1,0 +1,193 @@
+.aqui-btn-green{
+	color: white;
+	text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+	background-color: #006DCC;
+	background-image: -moz-linear-gradient(top, #ffffff, #14910a);
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#14910a));
+	background-image: -webkit-linear-gradient(top, #ffffff, #14910a);
+	background-image: -o-linear-gradient(top, #ffffff, #14910a);
+	background-image: linear-gradient(to bottom, #ffffff, #14910a);
+	background-repeat: repeat-x;
+	border:1px solid black;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff0088cc', endColorstr='#ff0044cc', GradientType=0);
+	filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);	
+}
+
+.loginLogo{
+	text-align: center;
+		
+}
+.loginLogo span{
+	display: inline-block;
+	text-indent: -99999px;
+}
+
+.loginInstruct{
+	text-align: center;
+}
+
+.forgotPW{
+	text-decoration: underline;
+}
+.navbar-inner.dark-header{
+	min-height: 52px;
+	background: #eeeeee; /* Old browsers */
+	background: -moz-linear-gradient(top,  #eeeeee 0%, #cccccc 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(100%,#cccccc)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #eeeeee 0%,#cccccc 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #eeeeee 0%,#cccccc 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=0 ); /* IE6-9 */
+}
+
+.header{
+	background: #eeeeee; /* Old browsers */
+	background: -moz-linear-gradient(top,  #eeeeee 0%, #a3a3a3 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(100%,#a3a3a3)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #eeeeee 0%,#a3a3a3 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #eeeeee 0%,#a3a3a3 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #eeeeee 0%,#a3a3a3 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #eeeeee 0%,#a3a3a3 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#a3a3a3',GradientType=0 ); /* IE6-9 */
+	border: 1px solid black;
+}
+.Logo span{
+	display: inline-block;
+	text-indent: -99999px;
+}
+.muted span{
+	display: inline-block;
+	text-indent: -99999px;
+}
+
+
+.cog-icon, .star-icon{
+	display: inline-block;
+	margin-top: 1px;
+	line-height: 30px;
+	vertical-align: text-top;
+	background-repeat: no-repeat;
+	
+	
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+.container .logo-main{
+	width: 50%;
+}
+
+input.span2.searchBar{
+	width:81%;
+	margin-top: -8%;
+}
+
+
+ul.downdwn-mobile-effect {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 1000;
+  display: none;
+  float: left;
+  min-width: 160px;
+  padding: 0;
+  margin: 2px 0 0;
+  list-style: none;
+  background-color: #ffffff;
+  border: 1px solid #ccc;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  *border-right-width: 2px;
+  *border-bottom-width: 2px;
+  -webkit-border-radius: 6px;
+<<<<<<< HEAD
+ -moz-border-radius: 6px;
+  border-radius: 6px;
+-webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+ -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+-webkit-background-clip: padding-box;
+ -moz-background-clip: padding;
+  background-clip: padding-box;
+=======
+     -moz-border-radius: 6px;
+          border-radius: 6px;
+  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+     -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+          box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  -webkit-background-clip: padding-box;
+     -moz-background-clip: padding;
+          background-clip: padding-box;
+>>>>>>> html-branch-edits
+}
+div.aquilex-searchBar{
+	margin:0;
+	width: 100%;
+}
+.map{
+	height:361px;
+	background-color: green;
+}
+input.span2.aquilex-span{
+	width: 83%;
+}
+.adSpace{
+	
+}
+
+.navbar.aquilex-nav{
+	margin-bottom: 0;
+	
+}
+
+.accnt-settings{
+	display: none;
+}
+
+.hide{
+	display:none;
+}
+.form-horizontal .controls.aquilex-pwchange {
+margin-left: 5%;
+}
+legend.aquilex-cpwTitle{
+	padding-left: 5%;	
+}
+
+.aquilex-cancel{
+	margin-top: -5%;
+	margin-left: 7%;
+	text-decoration: underline;
+}
+<<<<<<< HEAD
+=======
+
+/*
+.form-horizontal .controls:first-child {
+  *padding-left: 180px;
+}
+*/
+
+#dropDown-settings{
+	/* display: none; */
+}
+#dropDown-login{
+	display: none;
+}
+<<<<<<< HEAD
+>>>>>>> html-branch-edits
+=======
+
+.schoo-modal{
+	position: relative;
+}
+.modal.aquilex-school-modal{
+top:0;
+left:0;
+margin:0;
+width: 100%;
+
+}
+>>>>>>> html-branch-edits

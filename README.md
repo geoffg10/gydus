@@ -1,4 +1,0 @@
-gydus
-=====
-
-Final Project

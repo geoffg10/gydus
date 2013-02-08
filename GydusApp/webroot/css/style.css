@@ -16,7 +16,7 @@ instead of using text-indent im using font size 0
 	display:none;
 }
 
-.aquilex-block{
+.gydus-block{
 	display: block;
 }
 
@@ -41,7 +41,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f2f2', end
 
 }
 
-.navbar.aquilex-nav{
+.navbar.gydus-nav{
 	margin-bottom: 0%;
 	
 }
@@ -129,18 +129,20 @@ ul.downdwn-mobile-effect {
 
 /*------------------------- search bar ---------------------------*/
 
-.aquilex-searchBar{
+.gydus-searchBar{
 	margin:0;
-	width: 90%;
+	width: 70%;
 }
 .span2.searchBar{
-	width:80%;
+	width:60%;
+	margin-left:6em;
+	margin-top:1em;
 	height: 30px;
 	border:3px solid black;
 /* 	border: 2px solid black; */
 
 }
-.btn.aquilex-searchbtn{
+.btn.gydus-searchbtn{
 	padding-top: 7px;
 	padding-bottom: 6px;
 	height:30px;
@@ -152,14 +154,14 @@ ul.downdwn-mobile-effect {
 
 }
 
-.input-append.aquilex-searchbox{
+.input-append.gydus-searchbox{
 	width: 90%;
 	margin-left: 27;
 	margin-top:20;
 }
 
 
-.well.aquilex-well{
+.well.gydus-well{
 	padding-top:9px;
 	margin-bottom: 0px;
 	border:none;
@@ -200,11 +202,11 @@ ul.downdwn-mobile-effect {
 
 /*-------------------------  login and form items ---------------------------*/
 
-.form-horizontal .controls.aquilex-pwchange {
+.form-horizontal .controls.gydus-pwchange {
 margin-left: 5%;
 }
 
-input.span2.aquilex-span{
+input.span2.gydus-span{
 	width: 83%;
 }
 
@@ -221,16 +223,15 @@ input.span2.aquilex-span{
 
 /*-----cta-----*/
 .CTA{
-	margin-top:22;
 	background-image: url("../img/mapbg.png")no-repeat;
 	
 }
 .cta-text{
 	font-family: "Helvetica";
-	font-size: 1.1em;
+	font-size: 2em;
 	line-height: 1.3em;
-	margin-top:-150;
-	margin-left: 30;
+	margin-top:-9.37em;
+	margin-left: 3em;
 	color: #ffffff;
 	font-weight: lighter;
 }
@@ -239,7 +240,7 @@ input.span2.aquilex-span{
 /* --- signup section --- */
 
 .signup-section{
-	margin-top:40;
+padding-top:8em;
 	-moz-box-shadow:inset 0  8px 8px 8px #696868, 
                     inset 0 -8px 8px -8px #696868;
     -webkit-box-shadow: inset 0  8px 8px -5px #696868, 
@@ -248,16 +249,19 @@ input.span2.aquilex-span{
 
 .signup-section-text{
 	font-family: "Helvetica";
-	font-size: 0.93em;
+	font-size: 1.7em;
 	line-height: 1.3em;
-	padding-top: 40;
-	margin-left: 30;
+	
+	margin-left: 4em;
 	font-weight: lighter;
+	
+	
 }
 .signup-section-btn{
 	width: 70%;
-	padding-bottom: 40;
-	margin-left: 30;
+	margin-top:3em;
+	padding-bottom: 3em;
+	margin-left: 5em;
 	
 }
 

@@ -29,10 +29,10 @@
 		        		<a class="brand gydus-logo" href="#"><img src="webroot/img/Gydus-logo-01.png" alt="Gydus" /></a>
 					</section><!-- end of logo -->
 
-					<a class="brand signin nav-signin pull-right" href="?controllers=login_controller&action=loadLogin">Sign In</a>
+					<a class="brand signin nav-signin pull-right" href="index.php/userController/login">Sign In</a>  
 	        		</section><!-- close container"-->
 	        	</section> <!-- close navbar-inner dark-header -->
-        
+    
 <!--  end of header -->
 
 			

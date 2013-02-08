@@ -25,7 +25,7 @@ your classrooms <strong>in under 60 seconds</strong>!</p>
 					</section><!-- end of signup-section-text-->
 
 					<section class="signup-section-btn">
-						<button class="btn btn-large btn-block gydus-btn-large btn btn-success" type="button">SIGN UP NOW</button>
+						<button class="btn btn-large btn-block gydus-btn-large btn btn-success" type="button"  onClick="parent.location='index.php/userController/register'">SIGN UP NOW</button>
 					</section><!-- end of signup-section-btn-->
 
 				</section><!-- end of signup-section-->

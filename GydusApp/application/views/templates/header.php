@@ -28,9 +28,15 @@
 					<section class="logo">
 		        		<a class="brand gydus-logo" href="#"><img src="webroot/img/Gydus-logo-01.png" alt="Gydus" /></a>
 					</section><!-- end of logo -->
+<<<<<<< HEAD
 
 					<a class="brand signin nav-signin pull-right" href="index.php/userController/login">Sign In</a>  
 	        		</section><!-- close container"-->
+=======
+					<section class="gydus-signin-nav pull-right">
+					<a class="brand signin nav-signin" href="?controllers=login_controller&action=loadLogin">Sign In</a>
+					</section><!-- end of gydus signin nav-->
+>>>>>>> Fixed Header css
 	        	</section> <!-- close navbar-inner dark-header -->
     
 <!--  end of header -->

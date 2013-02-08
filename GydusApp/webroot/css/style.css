@@ -60,13 +60,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f2f2f2', end
 	display: inline-block;
 	font-size: 0;
 }
+.logo{
+	margin-left:2em;
+}
 a.brand.gydus-logo{
-margin-left: 1;
 }
 
 a.signin.nav-signin{
-	margin-left: 70;
-/* 	margin-top:; */
+	margin-right: 2em;
+	margin-top:.23em;
 	font-family: "Helvetica";
 	font-size: 1em;
 	color:black;

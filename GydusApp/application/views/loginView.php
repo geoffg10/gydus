@@ -1,5 +1,4 @@
 
-<!--	 <link href="webroot/css/bootstrap.css" rel="stylesheet">	<!-- end CSS-->
 
 <section gydus-login>
 <form class="form-horizontal">

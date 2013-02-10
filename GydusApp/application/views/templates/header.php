@@ -36,11 +36,7 @@
 					
 <!--  SIGN IN LINK -->					
 					<section class="gydus-signin-nav pull-right">
-<<<<<<< HEAD
-					<a class="brand signin nav-signin" href="index.php/userController/login">Sign In</a>
-=======
 						<a class="brand signin nav-signin" href="index.php/userController/login">Sign In</a>
->>>>>>> Gydus Landing Page coded out for desktop version
 					</section><!-- end of gydus signin nav-->
 	        	</section> <!-- close navbar-inner dark-header -->
 	        </section><!-- end of navbar navbar-fixed-top -->

@@ -15,17 +15,14 @@
 		if($query) // if the user's credentials validated...
 		{
 			$data = array(
-				'uname' => $this->input->post('uname'),
-				'is_logged_in' => true
+				'user_email' => $this->input->post('user_email')
+					'is_logged_in' => true
 			);				
-/* 			echo("hello user"); */
+			echo("hello user");
 
-							$this->load->view('members_area');
-
-/* 			redirect('site/members_area'); */
-		}
-/* 			redirect('site/members_area'); */
 			
+			redirect('site/members_area');
+			}			}			
 			else // incorrect username or password
 			{
 			$this->index();	

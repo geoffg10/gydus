@@ -40,8 +40,6 @@
 
 $route['marketingController/(:any)'] = "marketingController/$1";
 $route['default_controller'] = "marketingController";
-$route['userController/(:any)'] = "userController/$1";
-
 $route['404_override'] = '';
 
 

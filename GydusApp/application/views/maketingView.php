@@ -1,7 +1,7 @@
 	<section class="CTA">
 					<img src="webroot/img/mapbg.png" alt="cta"/>
 					<section class="cta-text">
-						<p>Find your classroom, quickl ahdjhasd;fkhasy with<br>
+						<p>Find your classroom, quickly with<br>
 						   GYDUS. Its <strong>fun</strong>, <strong>fast</strong>, and <strong>friendly</strong>.<br>
 						   <strong>Search now</strong> 
 						</p>

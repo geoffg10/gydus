@@ -14,9 +14,10 @@
 
 	<!-- CSS concatenated and minified via ant build script-->
 
+	<link rel="stylesheet" href="<?php echo base_url();?>/webroot/css/style.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="<?php echo base_url();?>/webroot/css/bootstrap.css" type="text/css" media="screen" />
 
-	 <link href="webroot/css/style.css" rel="stylesheet">
-	 <link href="webroot/css/bootstrap.css" rel="stylesheet">	<!-- end CSS-->
+		<!-- end CSS-->
 
 </head>
 <body class="landing">
@@ -30,7 +31,7 @@
 
 <!-- GYDUS LOGO -->
 					<section class="logo">
-		        		<a class="brand gydus-logo" href="#"><img src="webroot/img/logo.png" alt="Gydus" /></a>
+		        		<a class="brand gydus-logo" href="#"><img src="<?php echo base_url();?>/webroot/img/logo.png" alt="Gydus" /></a>
 					</section><!-- end of logo -->
 					
 					

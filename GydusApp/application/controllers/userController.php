@@ -6,7 +6,6 @@
 			$data = array();
 				
 			$data['content'] = 'loginView';
-$this->load->view('templates/header');
 			$this->load->view('templates/template', $data);
 		
 		

@@ -1,7 +1,6 @@
-
-
+ 
 <section gydus-login>
-<form class="form-horizontal">
+<form class="form-inline">
   <section class="control-group">
     <label class="control-label" for="inputEmail">Email</label>
     <section class="controls">

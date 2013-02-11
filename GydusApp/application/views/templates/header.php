@@ -13,10 +13,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<!-- CSS concatenated and minified via ant build script-->
-
-
-	 <link href="webroot/css/style.css" rel="stylesheet">
-	 <link href="webroot/css/bootstrap.css" rel="stylesheet">	<!-- end CSS-->
+	<link href="<?php echo base_url(); ?>webroot/css/style.css" rel="stylesheet">
 
 </head>
 <body class="landing">

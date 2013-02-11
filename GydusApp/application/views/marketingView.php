@@ -1,7 +1,7 @@
 	<section class="CTA pull-left">
 					
 					<section class="cta-text">
-						<p class="">Find your classroom, quickly with<br>
+						<p class="">Find your classroom,allo mate quickly with<br>
 						   GYDUS. Its <strong>fun</strong>, <strong>fast</strong>, and <strong>friendly</strong>.<br>
 						   <strong>Search now</strong> 
 						</p>

@@ -1,5 +1,5 @@
 <?php
-	const TITLE = "Aquilex";
+	const TITLE = "Gydus";
 	
 	// database information
 		// database hostname
@@ -7,7 +7,7 @@
 		// database port
 		const DB_PORT = "8889";
 		// database name
-		const DB_NAME = "aquilex";
+		const DB_NAME = "gydus";
 		// database username
 		const DB_USERNAME = 'root';
 		// database password
